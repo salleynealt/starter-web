@@ -11,6 +11,13 @@ commands in a web project.
 
 ## Purpose
 
+As stated above, the main purpose is to 
+provide training examples.
+
 ## Deployment
+
+This is a simple web project, deployment
+can be to any webserver or even local
+system files.
 
 ## How to Contribute
